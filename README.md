@@ -1,5 +1,6 @@
 # EducaciónIT
-Desafio 7
+# Desafio 7
+
 Este script realiza los siguientes pasos:
 
 - Hace una solicitud a la API de GitHub para obtener la lista de repositorios públicos del usuario "edgaregonzalez".
