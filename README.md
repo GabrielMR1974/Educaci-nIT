@@ -1,2 +1,2 @@
-# Educaci-nIT
+# EducaciónIT
 Desafio 7
